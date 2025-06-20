@@ -8,27 +8,25 @@
 
 ### 🧠 About Me
 
-- 💼 Java Developer with experience in **Spring Boot**, **Hibernate**, **JPA**, **REST APIs**
-- 💡 Strong grasp of **Data Structures and Algorithms**, frequent LeetCode explorer 🧩
-- 🔍 Currently diving deeper into **System Design** and **Microservices Architecture**
-- 🚀 Eager to build efficient, secure, and scalable backend systems
+- 💼 Java Developer with experience in **Spring Boot**, **Hibernate**, **JPA**, **REST APIs**  
+- 💡 Strong grasp of **Data Structures and Algorithms**, frequent LeetCode explorer 🧩  
+- 🔍 Currently diving deeper into **System Design** and **Microservices Architecture**  
 
 ---
 
 ### 💻 Tech Stack
 
-<!-- You can customize logos via shields.io or simple emojis -->
-- 💻 Java | Spring Boot | Hibernate | JPA | MyBatis
-- 🌐 REST APIs | Microservices | Maven | Swagger
-- 🛢️ MySQL | PostgreSQL | Oracle
-- 🧪 JUnit | Mockito | Postman
-- ☁️ Docker (learning) | AWS basics
-- 🧠 DSA (Leetcode, GFG)
-- 🧰 Git | GitHub | Linux
+- 💻 Java | Spring Boot | Hibernate | JPA  
+- 🌐 REST APIs | Microservices | Maven | Swagger  
+- 🛢️ MySQL | PostgreSQL | Oracle  
+- 🧪 JUnit | Mockito | Postman  
+- ☁️ Docker / AWS basics  
+- 🧠 DSA (LeetCode, GFG)  
+- 🧰 Git | GitHub | Linux  
 
 ---
 
-### 🔥 My Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamya-creator&show_icons=true&theme=tokyonight" alt="Kamya's GitHub stats" />
@@ -40,21 +38,25 @@
 
 ### 📌 Highlight Projects
 
-| Project Name | Description |
-| ------------ | ----------- |
-| 🔐 **SecureLoginApp** | Role-based Spring Boot login system with JWT & MySQL |
-| 📊 **EmployeeManagerAPI** | REST API for managing employees with CRUD and validation |
-| 🧠 **DSA-Playground** | My personal collection of DSA problems & solutions (Java) |
+| Project Name               | Description                                                       |
+|---------------------------|-------------------------------------------------------------------|
+| 🔐 **SecureLoginApp**      | Role-based Spring Boot login system with JWT & MySQL              |
+| 📊 **EmployeeManagerAPI**  | REST API for managing employees (CRUD + validation)               |
+| 🧠 **DSA-Playground**      | Personal collection of DSA problems & solutions (Java)           |
+
+---
+
+### 🏆 DSA Badges & Achievements
+
+[![LeetCode Badge]([https://img.shields.io/badge/LeetCode-YourUsername-blue.svg](https://leetcode.com/medal/?showImg=0&id=7119977&isLevel=false))]([https://leetcode.com/YourUsername](https://leetcode.com/u/kamyap2000/))  
+[![GFG Badge]]([https://auth.geeksforgeeks.org/user/YourUsername](https://www.geeksforgeeks.org/user/kamyap2000/))  
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(add your LinkedIn)*
-- 📧 Email: your.email@example.com
+- 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamya-b21885157/)  
+- 📧 Email: kamyap2000@gmail.com  
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
