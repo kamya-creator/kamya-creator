@@ -28,10 +28,14 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamya-creator&show_icons=true&theme=tokyonight" alt="Kamya's GitHub stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=kamya-creator&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamya-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
