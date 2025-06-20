@@ -52,6 +52,9 @@
 
 ### 🏆 DSA Badges & Achievements
 
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/kamyap2000/)
+
 [LeetCode Badge](https://leetcode.com/u/kamyap2000/)  
 [GFG Badge](https://www.geeksforgeeks.org/user/kamyap2000/) 
 
