@@ -48,14 +48,14 @@
 
 ### 🏆 DSA Badges & Achievements
 
-[![LeetCode Badge]([https://img.shields.io/badge/LeetCode-YourUsername-blue.svg](https://leetcode.com/medal/?showImg=0&id=7119977&isLevel=false))]([https://leetcode.com/YourUsername](https://leetcode.com/u/kamyap2000/))  
-[![GFG Badge]]([https://auth.geeksforgeeks.org/user/YourUsername](https://www.geeksforgeeks.org/user/kamyap2000/))  
+[LeetCode Badge](https://leetcode.com/u/kamyap2000/)  
+[GFG Badge](https://www.geeksforgeeks.org/user/kamyap2000/) 
+
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamya-b21885157/)  
 - 📧 Email: kamyap2000@gmail.com  
 
