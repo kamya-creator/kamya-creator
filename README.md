@@ -54,8 +54,6 @@
 
 [LeetCode Badge](https://leetcode.com/u/kamyap2000/)  
 [GFG Badge](https://www.geeksforgeeks.org/user/kamyap2000/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamya-creator)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
