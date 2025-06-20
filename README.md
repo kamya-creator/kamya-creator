@@ -46,7 +46,7 @@
 |---------------------------|-------------------------------------------------------------------|
 | 🔐 **SecureLoginApp**      | Role-based Spring Boot login system with JWT & MySQL              |
 | 📊 **EmployeeManagerAPI**  | REST API for managing employees (CRUD + validation)               |
-| 🧠 **DSA-Playground**      | Personal collection of DSA problems & solutions (Java)           |
+| 🧠 **DSA-Playground**      | Interview Ready collection of DSA problems & solutions (Java)           |
 
 ---
 
@@ -54,9 +54,7 @@
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/kamyap2000/)
-
-[LeetCode Badge](https://leetcode.com/u/kamyap2000/)  
-[GFG Badge](https://www.geeksforgeeks.org/user/kamyap2000/) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kamyap2000/)
 
 ---
 
