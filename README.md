@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamya-creator&show_icons=true&theme=tokyonight" alt="Kamya's GitHub stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=kamya-creator&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamya-creator alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamya-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -54,6 +54,7 @@
 
 [LeetCode Badge](https://leetcode.com/u/kamyap2000/)  
 [GFG Badge](https://www.geeksforgeeks.org/user/kamyap2000/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamya-creator)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
